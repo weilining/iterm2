@@ -9,7 +9,7 @@ chsh -s /bin/zsh
 cat /etc/shells
 ```
 
-
+Iterm2 下载在software里
 
 ## 安装 oh my zsh
 
